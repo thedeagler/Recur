@@ -1,0 +1,15 @@
+{
+  "name": "recurrr",
+  "version": "1.0.0",
+  "description": "Send and keep track of recurring payments.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Wu",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
