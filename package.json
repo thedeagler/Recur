@@ -1,5 +1,5 @@
 {
-  "name": "recurrr",
+  "name": "Recur",
   "version": "1.0.0",
   "description": "Send and keep track of recurring payments.",
   "main": "server.js",

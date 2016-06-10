@@ -5,9 +5,6 @@ export default class Fi extends Component {
     super(props)
   }
 
-  componentWillMount() {
-  }
-
   render() {
     return (
       <div>

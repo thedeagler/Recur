@@ -1,4 +1,5 @@
 var webpack = require('webpack');
+var path = require('path');
 
 module.exports = {
   devtool: 'eval',
@@ -11,6 +12,7 @@ module.exports = {
     filename: './app/bundle.js'
   },
   resolve: {
+    root: path.resolve(__dirname + '/app/components'),
     extensions: ['', '.js', '.jsx']
   },
   plugins: [
